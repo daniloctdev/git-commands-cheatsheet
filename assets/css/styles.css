@@ -77,12 +77,13 @@ header {
   margin-bottom: 28px;
   animation: fadeDown .6s ease both;
 }
-.header-badge span {
+.header-badge .badge-dot {
   width: 6px;
   height: 6px;
   background: var(--green);
   border-radius: 50%;
   animation: pulse 2s infinite;
+  flex-shrink: 0;
 }
 
 h1 {
