@@ -8,7 +8,7 @@
 
 <br/>
 
-**92 commands · 11 categories · Data-driven · Fast search · Copy-ready**
+**100 commands · 12 categories · Data-driven · Fast search · Copy-ready**
 
 <br/>
 
@@ -32,7 +32,7 @@
 - ✨ **Multilingual** — Switch between English 🇬🇧, Italian 🇮🇹, and French 🇫🇷 with the language switcher; your choice is remembered across visits
 - 🔍 **Instant search** — filter any command or description in real time
 - 📋 **One-click copy** — click any command to copy it to your clipboard
-- 🗂️ **11 categories** — organized from Setup to Advanced Branching
+- 🗂️ **12 categories** — organized from Setup to Advanced Branching
 - ⚠️ **Danger warnings** — destructive commands are clearly marked
 - ⌨️ **Keyboard shortcut** — press `/` to focus search instantly
 - 📱 **Fully responsive** — works great on mobile and desktop
@@ -79,7 +79,8 @@ This keeps the app easy to maintain, easy to extend, and contributor-friendly.
 | 8 | 🏷️ Tags | 5 |
 | 9 | 🔍 History & Diff | 15 |
 | 10 | 🧹 Cleanup & Maintenance | 8 |
-| 11 | 🚀 Advanced Branching | 5 |
+| 11 | 🌲 Worktrees | 8 |
+| 12 | 🚀 Advanced Branching | 5 |
 
 ---
 
