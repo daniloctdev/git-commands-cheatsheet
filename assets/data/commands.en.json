@@ -745,7 +745,7 @@
           "danger": false
         },
         {
-          "command": "git worktree move path newpath",
+          "command": "git worktree move path new-path",
           "searchDescription": "Move a worktree",
           "codeHtml": "<span class=\"cmd-keyword\">git worktree move</span> <span class=\"cmd-arg\">&lt;path&gt;</span> <span class=\"cmd-arg\">&lt;new-path&gt;</span>",
           "descriptionHtml": "Relocate a worktree to a new directory and update Git's internal references",
