@@ -734,7 +734,7 @@
           "command": "git worktree lock path",
           "searchDescription": "Blocca un worktree",
           "codeHtml": "<span class=\"cmd-keyword\">git worktree lock</span> <span class=\"cmd-arg\">&lt;path&gt;</span>",
-          "descriptionHtml": "Blocca un worktree per evitare che venga eliminato dalla potatura (es. su un'unità rimovibile)",
+          "descriptionHtml": "Blocca un worktree per evitare che venga rimosso durante la pulizia (pruning) (es. su un'unità rimovibile)",
           "danger": false
         },
         {
